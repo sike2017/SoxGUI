@@ -32,5 +32,3 @@ HEADERS += \
 
 FORMS += \
         mainwindow.ui
-
-INCLUDEPATH += D:\code\soundtouch_dll-2.0.0
